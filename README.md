@@ -31,5 +31,11 @@ EFI folder for GA-B75-D3H/E3 1230v2/RX480 8G Hackintosh(macOS 10.15.1 Catalina)
 
 ![](http://qnwiz.leonhom.cn/uPic/2020_1_30_16_Qv6olu.png)
 
+![](http://qnwiz.leonhom.cn/uPic/2020_1_30_16_9kcKzl.png)
+
+![](http://qnwiz.leonhom.cn/uPic/2020_1_30_16_CA1rBA.png)
+
+![](http://qnwiz.leonhom.cn/uPic/2020_1_30_16_TIcN1f.png)
+
 ![解码](http://qnwiz.leonhom.cn/uPic/2020_1_30_16_s6qOd1.png)
 
