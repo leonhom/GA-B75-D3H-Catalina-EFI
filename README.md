@@ -10,7 +10,7 @@ EFI folder for GA-B75-D3H/E3 1230v2/RX480 8G Hackintosh(macOS 10.15.1 Catalina)
 - 主板：技嘉B75D3H
 - 显卡：蓝宝石RX480 8G
 - SSD：三星860Evo-256G
-- 内存：DDR3 1600 8G x 4
+- 内存：DDR3 1333 8G x 4
 - 网卡：博通BCM943602CS - 4天线
 
 ## 使用情况
@@ -26,6 +26,10 @@ EFI folder for GA-B75-D3H/E3 1230v2/RX480 8G Hackintosh(macOS 10.15.1 Catalina)
 - [x] 【正常】AirDrop
 
 ## 部分截图
+
+![](http://qnwiz.leonhom.cn/uPic/2020_1_30_16_image-20200130162236528.png)
+
+![](http://qnwiz.leonhom.cn/uPic/2020_1_30_16_Qv6olu.png)
 
 ![解码](http://qnwiz.leonhom.cn/uPic/2020_1_30_16_s6qOd1.png)
 
